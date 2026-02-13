@@ -13,7 +13,7 @@ netsh wlan show profiles      # Listar redes WiFi guardadas
 netsh wlan show interface     # Estado de interfaces WiFi
 ```
 ## 💻 Información del sistema
-```
+```cmd
 systeminfo                     # Información general del sistema
 msinfo32                       # Información completa (ventana GUI)
 taskmgr                        # Administrador de tareas
@@ -25,7 +25,7 @@ chkdsk /f                       # Comprobar errores de disco
 sfc /scannow                    # Comprobar y reparar archivos del sistema
 ```
 ## 📁 Gestión de archivos 
-```
+```cmd
 dir                  # Listar archivos
 cd [carpeta]         # Cambiar directorio
 copy [origen] [destino]   # Copiar archivos
