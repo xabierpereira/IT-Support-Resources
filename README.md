@@ -121,6 +121,8 @@ Este repositorio sirve como:
 - 📧 **Email:** xabierpereira40@gmail.com
 - 🐙 **GitHub:** [github.com/xabierpereira](https://github.com/xabierpereira)
 
+
+![Visitor Count](https://komarev.com/ghpvc/?username=xabierpereira&color=blue&label=Visitas)
 ---
 
 ## 📄 Licencia
