@@ -121,8 +121,6 @@ Este repositorio sirve como:
 - 📧 **Email:** xabierpereira40@gmail.com
 - 🐙 **GitHub:** [github.com/xabierpereira](https://github.com/xabierpereira)
 
-
-![Visitor Count](https://komarev.com/ghpvc/?username=xabierpereira&color=blue&label=Visitas)
 ---
 
 ## 📄 Licencia
@@ -130,6 +128,7 @@ Este repositorio sirve como:
 MIT License - Siéntete libre de usar estos recursos para tu aprendizaje.
 
 ---
+![Visitor Count](https://komarev.com/ghpvc/?username=xabierpereira&color=blue&label=Visitas)
 
 **Última actualización:** 20 Febrero 2026
 
