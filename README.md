@@ -129,5 +129,5 @@ MIT License - Siéntete libre de usar estos recursos para tu aprendizaje.
 
 ---
 
-**Última actualización:** Febrero 2026
-```
+**Última actualización:** 20 Febrero 2026
+
